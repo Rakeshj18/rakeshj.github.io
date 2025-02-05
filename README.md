@@ -1,4 +1,4 @@
 Personal portfolio website with Github Pages
 
-https://dhanushgr.github.io/
+https://rakeshj.github.io/
 # rakeshj.github.io
